@@ -2,3 +2,4 @@
 See this site!  (mshouse-tohoku.com)
 
 こんにちは
+print
