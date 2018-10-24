@@ -2,4 +2,4 @@
 See this site!  (mshouse-tohoku.com)
 
 こんにちは
-いとけんです
+いとけんです。あっぷ
